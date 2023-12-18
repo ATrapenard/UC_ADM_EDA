@@ -1,0 +1,55 @@
+Type, Subcategory, 2016,2017,2018
+Applicants,	Total	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	100%,	100%,	100%
+Applicants,	Total	Count,	82560,	85045,	89609
+Applicants,	African American	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	5%,	5%,	5%
+Applicants,	African American	Count,	4220,	4439,	4743
+Applicants,	American Indian	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	1%,	1%,	0%
+Applicants,	American Indian	Count,	422,	427,	382
+Applicants,	Asian	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	30%,	31%,	32%
+Applicants,	Asian	Count,	24728,	25944,	28946
+Applicants,	Hispanic/Latinx	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	18%,	19%,	18%
+Applicants,	Hispanic/Latinx	Count,	14724,	15883,	16293
+Applicants,	Pacific Islander	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	0%,	0%,	0%
+Applicants,	Pacific Islander	Count,	200,	222,	224
+Applicants,	White	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	24%,	24%,	21%
+Applicants,	White	Count,	19905,	20053,	18911
+Applicants,	Unknown	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	3%,	3%,	3%
+Applicants,	Unknown	Count,	2728,	2643,	3046
+Applicants,	International	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	19%,	18%,	19%
+Applicants,	International	Count,	15633,	15434,	17064
+Admits,	Total	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	100%,	100%,	100%
+Admits,	Total	Count,	13975,	14549,	13301
+Admits,	African American	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	3%,	3%,	4%
+Admits,	African American	Count,	464,	493,	523
+Admits,	American Indian	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	1%,	1%,	0%
+Admits,	American Indian	Count,	77,	92,	52
+Admits,	Asian	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	41%,	40%,	40%
+Admits,	Asian	Count, 5761,	5868,	5359
+Admits,	Hispanic/Latinx	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	14%,	15%,	16%
+Admits,	Hispanic/Latinx	Count,	1934,	2117,	2083
+Admits,	Pacific Islander	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	0%,	0%,	0%
+Admits,	Pacific Islander	Count,	26,	27,	19
+Admits,	White	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	27%,	27%,	23%
+Admits,	White	Count,	3827,	3947,	3115
+Admits,	Unknown	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	5%,	5%,	5%
+Admits,	Unknown	Count,	758,	706,	697
+Admits,	International	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	8%,	9%,	11%
+Admits,	International	Count,	1128,	1299,	1453
+Enrollees,	Total	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	100%,	100%,	100%
+Enrollees,	Total	Count,	6252,	6379,	6012
+Enrollees,	African American	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	3%,	3%,	3%
+Enrollees,	African American	Count,	172,	186,	189
+Enrollees,	American Indian	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	0%,	0%,	0%
+Enrollees,	American Indian	Count,	22,	24,	20
+Enrollees,	Asian	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	43%,	42%,	41%
+Enrollees,	Asian	Count,	2687,	2673,	2492
+Enrollees,	Hispanic/Latinx	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	13%,	14%,	16%
+Enrollees,	Hispanic/Latinx	Count,	843,	922,	936
+Enrollees,	Pacific Islander	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	0%,	0%,	0%
+Enrollees,	Pacific Islander	Count,	12,	11,	11
+Enrollees,	White	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	26%,	25%,	21%
+Enrollees,	White	Count,	1602,	1565,	1277
+Enrollees,	Unknown	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	5%,	5%,	5%
+Enrollees,	Unknown	Count,328,301,288
+Enrollees,	International	% of Total Sum of FilteredCountFR along ethnicity 2 (group),	9%,	11%,	13%
+Enrollees,	International	Count,586,697,799
