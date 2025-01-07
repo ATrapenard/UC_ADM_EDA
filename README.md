@@ -1,3 +1,2 @@
-This study will focus on determining which UC campus has the highest graduation rate amongst STEM majors. 
-
-The findings of this research will be valuable for students, educators, and policymakers seeking to understand the effectiveness of STEM programs at UC campuses and to identify potential areas for improvement.
+# UC Admissions Exploratory Data Analysis
+Education project utilizing statistical measures and models including temporal analysis, variable heat-mapping, and bar plots to compare the graduation rates of STEM majors across the various campuses of University of California (UC) institutions. The study focused on determining which UC campus has the highest graduation rate amongst STEM majors to assess the effectiveness of its STEM program and identify potential areas for improvement for other campuses.
